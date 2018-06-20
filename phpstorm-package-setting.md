@@ -1,5 +1,5 @@
 # PHPSTORM PACKAGE 설정
-## phpstorm에 codesniffer 설정 하기
+## codesniffer
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/README.md)
 - package 설치
 ```
@@ -7,7 +7,7 @@ composer global require "squizlabs/php_codesniffer=*"
 ```
 - [phpstorm 설정](https://confluence.jetbrains.com/display/PhpStorm/PHP+Code+Sniffer+in+PhpStorm)
 
-## phpstorm에 cs-fixer 설정 하기
+## php-cs-fixer
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer/blob/2.12/README.rst)
 - package 설치
 ```
