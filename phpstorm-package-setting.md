@@ -1,4 +1,4 @@
-# composer
+# PHPSTORM PACKAGE 
 ## phpstorm에 codesniffer 설정 하기
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/README.md)
 - package 설치
