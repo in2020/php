@@ -18,7 +18,7 @@ composer global require friendsofphp/php-cs-fixer
 
 ## PHPSTORM Tips!
 - [laracasts 동영상](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
-### navigate
+### Navigate
 - navigate 찾기는 n 
 ```
 ctrl + n : class
@@ -29,23 +29,37 @@ ctrl + alt + b : go to implementation
 alt + up | down : move method
 ```
 
-### new file 
+### New file 
 ```
 1. 원하는 경로 이동 후(ctrl + n) 
 2. project focus 상태에서 alt + insert
 ```
 
-### debug
+### Debug
 ```
 ctrl + F8 : break point 
 디버깅 flow는 chrome과 단축키를 맞춤. F10 : step over,F11 : step into
 ```
 
-### live template
+### Live template
 ```
 1. Snippet 만들기 원하는 부분 block 지정 
 2. ctrl + shift + a 
 3. type : save as live template
 4. live template 저장 화면에서 약어 및 설명 작성
 5. edit variables에서 변수 설정을 세부적으로 가능하다.
+```
+
+### Refactor
+- 중복 코드 method로 만들기
+```
+1. 중복 코드 block 지정
+2. ctrl + shfit + alt + t 
+3. method 선택 
+4. method 세부사항 설정
+```
+- 부모 class로 method 이동 하기
+```
+1. ctrl + shfit + alt + t 
+2. pull up members 선택
 ```
