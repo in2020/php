@@ -63,3 +63,8 @@ ctrl + F8 : break point
 1. ctrl + shfit + alt + t 
 2. pull up members 선택
 ```
+- 변수로 추출 
+```
+1. ctrl + shfit + alt + t 
+2. extract variable 선택 (inline은 반대)
+```
