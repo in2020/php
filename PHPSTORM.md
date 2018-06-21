@@ -16,6 +16,8 @@ composer global require friendsofphp/php-cs-fixer
 ```
 - [phpstorm 설정](https://hackernoon.com/how-to-configure-phpstorm-to-use-php-cs-fixer-1844991e521f)
 
+  
+
 ## PHPSTORM Tips!
 - [laracasts 동영상](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
 ### Navigate
