@@ -40,3 +40,12 @@ alt + up | down : move method
 ctrl + F8 : break point 
 디버깅 flow는 chrome과 단축키를 맞춤. F10 : step over,F11 : step into
 ```
+
+### live template
+```
+1. Snippet 만들기 원하는 부분 block 지정 
+2. ctrl + shift + a 
+3. type : save as live template
+4. live template 저장 화면에서 약어 및 설명 작성
+5. edit variables에서 변수 설정을 세부적으로 가능하다.
+```
