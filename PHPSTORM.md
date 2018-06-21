@@ -34,3 +34,9 @@ alt + up | down : move method
 1. 원하는 경로 이동 후(ctrl + n) 
 2. project focus 상태에서 alt + insert
 ```
+
+### debug
+```
+ctrl + F8 : break point 
+디버깅 flow는 chrome과 단축키를 맞춤. F10 : step over,F11 : step into
+```
