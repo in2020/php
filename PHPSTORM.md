@@ -1,8 +1,16 @@
 # PHPSTORM
 ## PHPSTORM PACKAGE 설정
+### laravel-ide-helper
+- [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
+- package 설치
+- 라라벨 code tracking helper
+```
+composer require --dev barryvdh/laravel-ide-helper
+```
 ### codesniffer
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/README.md)
 - package 설치
+- code rule 위반 표시 
 ```
 composer global require "squizlabs/php_codesniffer=*"
 ```
@@ -11,6 +19,7 @@ composer global require "squizlabs/php_codesniffer=*"
 ### php-cs-fixer
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer/blob/2.12/README.rst)
 - package 설치
+- code standard에 맡게 수정
 ```
 composer global require friendsofphp/php-cs-fixer
 ```
@@ -53,12 +62,12 @@ ctrl + F8 : break point
 ```
 
 ### Refactor
-- 중복 코드 method로 만들기
+- extract : variable, constant, field, parameter, method, interface
 ```
-1. 중복 코드 block 지정
+1. block 지정 or 커서 위치 
 2. ctrl + shfit + alt + t 
-3. method 선택 
-4. method 세부사항 설정
+3. extract 메뉴 선택 
+4. 세부사항 설정
 ```
 - 부모 class로 method 이동 하기
 ```
@@ -69,4 +78,9 @@ ctrl + F8 : break point
 ```
 1. ctrl + shfit + alt + t 
 2. extract variable 선택 (inline은 반대)
+```
+
+### Generate
+```
+alt + Insert : overide, implement, construct, setter, getter
 ```
