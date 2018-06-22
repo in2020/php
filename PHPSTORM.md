@@ -1,4 +1,5 @@
 # PHPSTORM
+### [xdebug 설정](https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html)
 ## PHPSTORM PACKAGE 설정
 ### laravel-ide-helper
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
