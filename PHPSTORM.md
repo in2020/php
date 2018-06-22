@@ -84,3 +84,9 @@ ctrl + F8 : break point
 ```
 alt + Insert : overide, implement, construct, setter, getter
 ```
+
+### Multiple cursors
+```
+alt + j : add selection for next occurrence
+ctrl + alt + shift + j : select all occurrences 
+```
