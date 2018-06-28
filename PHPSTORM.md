@@ -86,3 +86,6 @@ alt + Insert : overide, implement, construct, setter, getter
 alt + j : add selection for next occurrence
 ctrl + alt + shift + j : select all occurrences 
 ```
+
+### DB Navigator
+- data source를 설정 하면 php 코드에 담겨있는 쿼리를 바로 실행할 수 있다.(ctrl + enter)
