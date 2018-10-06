@@ -1,6 +1,12 @@
 # PHPSTORM
 ### [xdebug 설정](https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html)
 - docker 설정 내용도 위 페이지에 있음
+- xdebug.remote_enable=1
+- xdebug.remote_port=9000
+- xdebug.remote_host=host.docker.internal
+```
+you can set xdebug.remote_host to host.docker.internal, which automatically resolves to the internal address of the host, letting you easily connect to it from the container.
+```
 ## PHPSTORM PACKAGE 설정
 ### laravel-ide-helper
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
