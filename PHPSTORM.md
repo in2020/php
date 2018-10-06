@@ -1,5 +1,6 @@
 # PHPSTORM
 ### [xdebug 설정](https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html)
+- docker 설정 내용도 위 페이지에 있음
 ## PHPSTORM PACKAGE 설정
 ### laravel-ide-helper
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
