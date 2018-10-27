@@ -35,7 +35,7 @@ composer global require friendsofphp/php-cs-fixer
 
   
 
-## PHPSTORM Tips!
+## PHPSTORM keymap(windows)
 - [laracasts 동영상](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
 ### Navigate
 - navigate 찾기는 n 
@@ -97,3 +97,11 @@ ctrl + alt + shift + j : select all occurrences
 ### DB Navigator
 - data source를 설정 하면 php 코드에 담겨있는 쿼리를 바로 실행할 수 있다.(ctrl + enter)
 - php 코드에 injected 되어있는 sql을 변수 설정과 함께 수행 하는 방법 Settings > Tools > Databse > User Parameters에서 parameter patterns을 php 변수 형식으로 추가하면 가능 하다.
+
+## Keymap osx
+```
+new : ctrl + opt + n 
+terminal : opt + f12
+project : cmd + 1
+structure : cmd + 7
+```
